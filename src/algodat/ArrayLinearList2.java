@@ -7,7 +7,7 @@ package algodat;
 
 /**
  *
- * @author Cicilia
+ * @author Cicilia 
  */
 public class ArrayLinearList2 extends ArrayLinearList {
     

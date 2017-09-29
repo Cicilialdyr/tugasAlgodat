@@ -10,7 +10,7 @@ package algodat;
  * @author Cicilia
  */
 public class ArrayLinearList1 extends ArrayLinearList {
-
+ 
     ArrayLinearList1() {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }

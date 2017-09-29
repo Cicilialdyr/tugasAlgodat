@@ -15,7 +15,7 @@ public class Main {
         
         x.add(0,"a");
         x.add(1,"w");
-        x.add(2,"e");
+        x.add(2,"e"); 
         x.add(3,"g");
         x.add(4,"d");
         

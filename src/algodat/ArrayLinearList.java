@@ -17,7 +17,7 @@ public class ArrayLinearList {
     public ArrayLinearList(int capacity) {
         this.capacity = capacity;
         element = new Object[capacity];
-
+ 
         index = 0;
     }
     public ArrayLinearList(){
