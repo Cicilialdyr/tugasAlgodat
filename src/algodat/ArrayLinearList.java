@@ -10,7 +10,6 @@ package algodat;
  * @author Cicilia
  */
 public class ArrayLinearList {
-    
     protected Object [] element,element2;
     protected int size;
     protected int capacity;
